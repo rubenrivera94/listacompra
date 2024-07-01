@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="title_agregar_producto">Add Product</string>
+    <string name="button_agregar">Add</string>
+    <string name="button_volver">Back</string>
+    <string name="title_lista_compras">Shopping List</string>
+    <string name="text_no_productos">No products to display</string>
+    <string name="icon_comprado">Purchased</string>
+    <string name="icon_no_comprado">Not purchased</string>
+    <string name="icon_eliminar">Delete</string>
+    <string name="icon_agregar">Add</string>
+</resources>
